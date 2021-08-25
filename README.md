@@ -39,7 +39,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/tengine8000">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tengine8000&theme=onedark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengine8000&theme=onedark&layout=compact" />
 </a>
