@@ -6,8 +6,8 @@
 - 🎓 &nbsp; Studied Electrical / Electronics Engineering at Federal University of Technology, Owerri, Nigeria.
 - 💼 &nbsp; Working as a Team Lead at Farmcrowdy Group Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- 👯 Looking to collaborate on interesting open source projects.
-- 📫 Open to explore remote work opportunities
+- 👯 &nbsp; Looking to collaborate on interesting open source projects.
+- 📫 &nbsp; Open to remote work opportunities
 - ✍️ &nbsp; Blogs occasionally
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
