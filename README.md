@@ -3,10 +3,12 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing business software solutions.
-- 🎓 &nbsp; Studied Electrical / Electronics Engineering at Federal University of Technology, Owerri, Nigeria
+- 🎓 &nbsp; Studied Electrical / Electronics Engineering at Federal University of Technology, Owerri, Nigeria.
 - 💼 &nbsp; Working as a Team Lead at Farmcrowdy Group Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Blogging occassionally
+- 👯 Looking to collaborate on interesting open source projects.
+- 📫 Open to explore remote work opportunities
+- ✍️ &nbsp; Blogs occasionally
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
