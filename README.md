@@ -2,9 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; Exploring and building Web / Blockchain solutions.
+- 🌱 &nbsp; Exploring and building Web solutions.
 - 👯 &nbsp; Always looking to collaborate on interesting open source projects.
-- 📫 &nbsp; Open to remote work opportunities
 
 <br/>
 
