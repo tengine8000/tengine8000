@@ -10,4 +10,4 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://www.etorty.ng/"><img alt="Website" src="https://img.shields.io/badge/Website-www.tortyemmanuel.com-blue?style=rounded-square&logo=google-chrome"></a>
+<a href="https://www.etorty.ng/"><img alt="Website" src="https://img.shields.io/badge/Website-www.etorty.ng-blue?style=rounded-square&logo=google-chrome"></a>
