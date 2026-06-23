@@ -10,4 +10,4 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://www.nimblesoftlimited.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.etorty.ng-blue?style=rounded-square&logo=google-chrome"></a>
+<a href="https://www.nimblesoftlimited.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.nimblesoftlimited.com-blue?style=rounded-square&logo=google-chrome"></a>
