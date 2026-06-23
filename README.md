@@ -3,11 +3,11 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌱 &nbsp; Exploring and building Web solutions.
-- 👯 &nbsp; Always looking to collaborate on interesting open source projects.
+- 👯 &nbsp; Always looking to collaborate on interesting projects.
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://www.etorty.ng/"><img alt="Website" src="https://img.shields.io/badge/Website-www.etorty.ng-blue?style=rounded-square&logo=google-chrome"></a>
+<a href="https://www.nimblesoftlimited.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.etorty.ng-blue?style=rounded-square&logo=google-chrome"></a>
